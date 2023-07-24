@@ -1,5 +1,5 @@
 # CloneGPT3
-Creating a replica of ChatGPT3 website as well as practicing using NodeJS
+Creating a replica of ChatGPT3 website as well as practicing using NodeJS by following a YouTube Tutorial 
 
 
 
@@ -9,7 +9,7 @@ Creating a replica of ChatGPT3 website as well as practicing using NodeJS
 https://github.com/adrianhajdin
 
 This project is a clone website from Adrianhajdin YouTube video (https://www.youtube.com/watch?v=F627pKNUCVQ&list=WL&index=44) 
-His YouTube videos has helped me a lot on how to use Master JavaScript the proper way and in this video we use a lot of ReactJS which has shown to me that is a great tool and easier to build and edit websites
+His YouTube videos have helped me a lot on how to use Master JavaScript the proper way and in this video, we use a lot of NodeJS which has shown me that is a great tool and easier to build and edit websites
 
 
 # 
