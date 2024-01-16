@@ -3,7 +3,7 @@ Creating a replica of ChatGPT3 website as well as practicing using NodeJS by fol
 
 
 
-![image](https://github.com/kharo019/CloneGPT3/assets/56741271/ff9a4686-63fa-4cbe-bb23-26b8c3088832)
+![image](https://github.com/kharo019/CloneGPT3/assets/56741271/ff9a4686-63fa-4cbe-bb23-26b8c3088832)  
 ![ReactJS](https://camo.githubusercontent.com/6d8b126f83c0e59e37021e68c3f650c5c98915301f4bf4db9661c8d1dc2725e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163745f4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d726561637426636f6c6f723d363144414642)
 
 
